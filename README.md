@@ -62,3 +62,5 @@ to discuss potential directions for tourist dispersion beyond purely quantitativ
 混雑の発生タイミングや場所をより精緻に把握することが可能になる。
 また、過去の傾向を基にした時系列予測モデルを適用することで、
 将来的な混雑状況に関するシナリオ分析も検討できる。
+
+ Detailed analyses and figures are available in the `notebooks/` and `figures/` directorie
